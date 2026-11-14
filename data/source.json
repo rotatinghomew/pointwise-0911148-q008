@@ -11,8 +11,8 @@
     {
       "region_code": "r0",
       "month": "2024-02",
-      "value": 906.0,
-      "open_hours": 101,
+      "value": 0,
+      "open_hours": 0,
       "revision": 1,
       "received_at": "2026-09-01T00:00:00Z"
     },
@@ -98,7 +98,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 972.0,
       "open_hours": 102,
       "revision": 1,
@@ -106,7 +106,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 978.0,
       "open_hours": 103,
       "revision": 1,
@@ -114,7 +114,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 984.0,
       "open_hours": 104,
       "revision": 1,
@@ -122,7 +122,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 990.0,
       "open_hours": 100,
       "revision": 1,
@@ -130,7 +130,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 996.0,
       "open_hours": 101,
       "revision": 1,
@@ -138,7 +138,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1082.0,
       "open_hours": 102,
       "revision": 1,
@@ -146,7 +146,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1108.0,
       "open_hours": 103,
       "revision": 1,
@@ -154,7 +154,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1134.0,
       "open_hours": 104,
       "revision": 1,
@@ -162,7 +162,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1080.0,
       "open_hours": 100,
       "revision": 1,
@@ -170,7 +170,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1106.0,
       "open_hours": 101,
       "revision": 1,
@@ -178,7 +178,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1132.0,
       "open_hours": 102,
       "revision": 1,
@@ -186,7 +186,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1158.0,
       "open_hours": 103,
       "revision": 1,
@@ -194,7 +194,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1184.0,
       "open_hours": 104,
       "revision": 1,
@@ -202,7 +202,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1210.0,
       "open_hours": 100,
       "revision": 1,
@@ -210,7 +210,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1236.0,
       "open_hours": 101,
       "revision": 1,
@@ -218,7 +218,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1262.0,
       "open_hours": 102,
       "revision": 1,
@@ -226,7 +226,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1288.0,
       "open_hours": 103,
       "revision": 1,
@@ -234,7 +234,7 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1394.0,
       "open_hours": 104,
       "revision": 1,
@@ -338,7 +338,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1102.2,
       "open_hours": 102,
       "revision": 1,
@@ -346,7 +346,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1108.8,
       "open_hours": 103,
       "revision": 1,
@@ -354,7 +354,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1115.4,
       "open_hours": 104,
       "revision": 1,
@@ -362,7 +362,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1122.0,
       "open_hours": 100,
       "revision": 1,
@@ -370,7 +370,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1128.6,
       "open_hours": 101,
       "revision": 1,
@@ -378,7 +378,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1223.2,
       "open_hours": 102,
       "revision": 1,
@@ -386,7 +386,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1262.8,
       "open_hours": 103,
       "revision": 1,
@@ -394,7 +394,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1302.4,
       "open_hours": 104,
       "revision": 1,
@@ -402,7 +402,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1254.0,
       "open_hours": 100,
       "revision": 1,
@@ -410,7 +410,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1293.6,
       "open_hours": 101,
       "revision": 1,
@@ -418,7 +418,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1333.2,
       "open_hours": 102,
       "revision": 1,
@@ -426,7 +426,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1372.8,
       "open_hours": 103,
       "revision": 1,
@@ -434,7 +434,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1412.4,
       "open_hours": 104,
       "revision": 1,
@@ -442,7 +442,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1452.0,
       "open_hours": 100,
       "revision": 1,
@@ -450,7 +450,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1491.6,
       "open_hours": 101,
       "revision": 1,
@@ -458,7 +458,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1531.2,
       "open_hours": 102,
       "revision": 1,
@@ -466,7 +466,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1570.8,
       "open_hours": 103,
       "revision": 1,
@@ -474,7 +474,7 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1698.4,
       "open_hours": 104,
       "revision": 1,
@@ -578,7 +578,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1238.4,
       "open_hours": 102,
       "revision": 1,
@@ -586,7 +586,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1245.6,
       "open_hours": 103,
       "revision": 1,
@@ -594,7 +594,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1252.8,
       "open_hours": 104,
       "revision": 1,
@@ -602,7 +602,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1260.0,
       "open_hours": 100,
       "revision": 1,
@@ -610,7 +610,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1267.2,
       "open_hours": 101,
       "revision": 1,
@@ -618,7 +618,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1370.4,
       "open_hours": 102,
       "revision": 1,
@@ -626,7 +626,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1425.6,
       "open_hours": 103,
       "revision": 1,
@@ -634,7 +634,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1480.8,
       "open_hours": 104,
       "revision": 1,
@@ -642,7 +642,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1440.0,
       "open_hours": 100,
       "revision": 1,
@@ -650,7 +650,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1495.2,
       "open_hours": 101,
       "revision": 1,
@@ -658,7 +658,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1550.4,
       "open_hours": 102,
       "revision": 1,
@@ -666,7 +666,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1605.6,
       "open_hours": 103,
       "revision": 1,
@@ -674,7 +674,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1660.8,
       "open_hours": 104,
       "revision": 1,
@@ -682,7 +682,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1716.0,
       "open_hours": 100,
       "revision": 1,
@@ -690,7 +690,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1771.2,
       "open_hours": 101,
       "revision": 1,
@@ -698,7 +698,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1826.4,
       "open_hours": 102,
       "revision": 1,
@@ -706,7 +706,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1881.6,
       "open_hours": 103,
       "revision": 1,
@@ -714,7 +714,7 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 2032.8,
       "open_hours": 104,
       "revision": 1,
@@ -818,7 +818,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1380.6,
       "open_hours": 102,
       "revision": 1,
@@ -826,7 +826,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1388.4,
       "open_hours": 103,
       "revision": 1,
@@ -834,7 +834,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1396.2,
       "open_hours": 104,
       "revision": 1,
@@ -842,7 +842,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1404.0,
       "open_hours": 100,
       "revision": 1,
@@ -850,7 +850,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1411.8,
       "open_hours": 101,
       "revision": 1,
@@ -858,7 +858,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1523.6,
       "open_hours": 102,
       "revision": 1,
@@ -866,7 +866,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1531.4,
       "open_hours": 103,
       "revision": 1,
@@ -874,7 +874,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1539.2,
       "open_hours": 104,
       "revision": 1,
@@ -882,7 +882,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1443.0,
       "open_hours": 100,
       "revision": 1,
@@ -890,7 +890,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1450.8,
       "open_hours": 101,
       "revision": 1,
@@ -898,7 +898,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1458.6,
       "open_hours": 102,
       "revision": 1,
@@ -906,7 +906,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1466.4,
       "open_hours": 103,
       "revision": 1,
@@ -914,7 +914,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1474.2,
       "open_hours": 104,
       "revision": 1,
@@ -922,7 +922,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1482.0,
       "open_hours": 100,
       "revision": 1,
@@ -930,7 +930,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1489.8,
       "open_hours": 101,
       "revision": 1,
@@ -938,7 +938,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1497.6,
       "open_hours": 102,
       "revision": 1,
@@ -946,7 +946,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1505.4,
       "open_hours": 103,
       "revision": 1,
@@ -954,7 +954,7 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1617.2,
       "open_hours": 104,
       "revision": 1,
@@ -1058,7 +1058,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1528.8,
       "open_hours": 102,
       "revision": 1,
@@ -1066,7 +1066,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1537.2,
       "open_hours": 103,
       "revision": 1,
@@ -1074,7 +1074,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1545.6,
       "open_hours": 104,
       "revision": 1,
@@ -1082,7 +1082,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1554.0,
       "open_hours": 100,
       "revision": 1,
@@ -1090,7 +1090,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1562.4,
       "open_hours": 101,
       "revision": 1,
@@ -1098,7 +1098,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1682.8,
       "open_hours": 102,
       "revision": 1,
@@ -1106,7 +1106,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1691.2,
       "open_hours": 103,
       "revision": 1,
@@ -1114,7 +1114,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1699.6,
       "open_hours": 104,
       "revision": 1,
@@ -1122,7 +1122,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1596.0,
       "open_hours": 100,
       "revision": 1,
@@ -1130,7 +1130,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1604.4,
       "open_hours": 101,
       "revision": 1,
@@ -1138,7 +1138,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1612.8,
       "open_hours": 102,
       "revision": 1,
@@ -1146,7 +1146,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1621.2,
       "open_hours": 103,
       "revision": 1,
@@ -1154,7 +1154,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1629.6,
       "open_hours": 104,
       "revision": 1,
@@ -1162,7 +1162,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1638.0,
       "open_hours": 100,
       "revision": 1,
@@ -1170,7 +1170,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1646.4,
       "open_hours": 101,
       "revision": 1,
@@ -1178,7 +1178,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1654.8,
       "open_hours": 102,
       "revision": 1,
@@ -1186,7 +1186,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1663.2,
       "open_hours": 103,
       "revision": 1,
@@ -1194,7 +1194,7 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1783.6,
       "open_hours": 104,
       "revision": 1,
@@ -1298,7 +1298,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1683.0,
       "open_hours": 102,
       "revision": 1,
@@ -1306,7 +1306,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1692.0,
       "open_hours": 103,
       "revision": 1,
@@ -1314,7 +1314,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1701.0,
       "open_hours": 104,
       "revision": 1,
@@ -1322,7 +1322,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1710.0,
       "open_hours": 100,
       "revision": 1,
@@ -1330,7 +1330,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1719.0,
       "open_hours": 101,
       "revision": 1,
@@ -1338,7 +1338,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 1848.0,
       "open_hours": 102,
       "revision": 1,
@@ -1346,7 +1346,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 1857.0,
       "open_hours": 103,
       "revision": 1,
@@ -1354,7 +1354,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 1866.0,
       "open_hours": 104,
       "revision": 1,
@@ -1362,7 +1362,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1755.0,
       "open_hours": 100,
       "revision": 1,
@@ -1370,7 +1370,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1764.0,
       "open_hours": 101,
       "revision": 1,
@@ -1378,7 +1378,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1743.0,
       "open_hours": 102,
       "revision": 1,
@@ -1386,7 +1386,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1722.0,
       "open_hours": 103,
       "revision": 1,
@@ -1394,7 +1394,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1701.0,
       "open_hours": 104,
       "revision": 1,
@@ -1402,7 +1402,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1680.0,
       "open_hours": 100,
       "revision": 1,
@@ -1410,7 +1410,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1659.0,
       "open_hours": 101,
       "revision": 1,
@@ -1418,7 +1418,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1638.0,
       "open_hours": 102,
       "revision": 1,
@@ -1426,7 +1426,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1617.0,
       "open_hours": 103,
       "revision": 1,
@@ -1434,7 +1434,7 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1716.0,
       "open_hours": 104,
       "revision": 1,
@@ -1538,7 +1538,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 1843.2,
       "open_hours": 102,
       "revision": 1,
@@ -1546,7 +1546,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 1852.8,
       "open_hours": 103,
       "revision": 1,
@@ -1554,7 +1554,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 1862.4,
       "open_hours": 104,
       "revision": 1,
@@ -1562,7 +1562,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 1872.0,
       "open_hours": 100,
       "revision": 1,
@@ -1570,7 +1570,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 1881.6,
       "open_hours": 101,
       "revision": 1,
@@ -1578,7 +1578,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 2019.2,
       "open_hours": 102,
       "revision": 1,
@@ -1586,7 +1586,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 2028.8,
       "open_hours": 103,
       "revision": 1,
@@ -1594,7 +1594,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 2038.4,
       "open_hours": 104,
       "revision": 1,
@@ -1602,7 +1602,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 1920.0,
       "open_hours": 100,
       "revision": 1,
@@ -1610,7 +1610,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 1929.6,
       "open_hours": 101,
       "revision": 1,
@@ -1618,7 +1618,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 1907.2,
       "open_hours": 102,
       "revision": 1,
@@ -1626,7 +1626,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 1884.8,
       "open_hours": 103,
       "revision": 1,
@@ -1634,7 +1634,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 1862.4,
       "open_hours": 104,
       "revision": 1,
@@ -1642,7 +1642,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 1840.0,
       "open_hours": 100,
       "revision": 1,
@@ -1650,7 +1650,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 1817.6,
       "open_hours": 101,
       "revision": 1,
@@ -1658,7 +1658,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 1795.2,
       "open_hours": 102,
       "revision": 1,
@@ -1666,7 +1666,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 1772.8,
       "open_hours": 103,
       "revision": 1,
@@ -1674,7 +1674,7 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 1878.4,
       "open_hours": 104,
       "revision": 1,
@@ -1778,7 +1778,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-13",
+      "month": "2025-01",
       "value": 2009.4,
       "open_hours": 102,
       "revision": 1,
@@ -1786,7 +1786,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-14",
+      "month": "2025-02",
       "value": 2019.6,
       "open_hours": 103,
       "revision": 1,
@@ -1794,7 +1794,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-15",
+      "month": "2025-03",
       "value": 2029.8,
       "open_hours": 104,
       "revision": 1,
@@ -1802,7 +1802,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-16",
+      "month": "2025-04",
       "value": 2040.0,
       "open_hours": 100,
       "revision": 1,
@@ -1810,7 +1810,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-17",
+      "month": "2025-05",
       "value": 2050.2,
       "open_hours": 101,
       "revision": 1,
@@ -1818,7 +1818,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-18",
+      "month": "2025-06",
       "value": 2196.4,
       "open_hours": 102,
       "revision": 1,
@@ -1826,7 +1826,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-19",
+      "month": "2025-07",
       "value": 2206.6,
       "open_hours": 103,
       "revision": 1,
@@ -1834,7 +1834,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-20",
+      "month": "2025-08",
       "value": 2216.8,
       "open_hours": 104,
       "revision": 1,
@@ -1842,7 +1842,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-21",
+      "month": "2025-09",
       "value": 2091.0,
       "open_hours": 100,
       "revision": 1,
@@ -1850,7 +1850,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-22",
+      "month": "2025-10",
       "value": 2101.2,
       "open_hours": 101,
       "revision": 1,
@@ -1858,7 +1858,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-23",
+      "month": "2025-11",
       "value": 2111.4,
       "open_hours": 102,
       "revision": 1,
@@ -1866,7 +1866,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-24",
+      "month": "2025-12",
       "value": 2121.6,
       "open_hours": 103,
       "revision": 1,
@@ -1874,7 +1874,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-25",
+      "month": "2026-01",
       "value": 2131.8,
       "open_hours": 104,
       "revision": 1,
@@ -1882,7 +1882,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-26",
+      "month": "2026-02",
       "value": 2142.0,
       "open_hours": 100,
       "revision": 1,
@@ -1890,7 +1890,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-27",
+      "month": "2026-03",
       "value": 2152.2,
       "open_hours": 101,
       "revision": 1,
@@ -1898,7 +1898,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-28",
+      "month": "2026-04",
       "value": 2162.4,
       "open_hours": 102,
       "revision": 1,
@@ -1906,7 +1906,7 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-29",
+      "month": "2026-05",
       "value": 2172.6,
       "open_hours": 103,
       "revision": 1,
@@ -1914,11 +1914,19 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-30",
+      "month": "2026-06",
       "value": 2318.8,
       "open_hours": 104,
       "revision": 1,
       "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-03",
+      "value": 1012.0,
+      "open_hours": 102,
+      "revision": 2,
+      "received_at": "2026-09-20T00:00:00Z"
     }
   ],
   "region_versions": [
@@ -2057,1142 +2065,92 @@
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-13",
+      "month": "2025-01",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-14",
+      "month": "2025-02",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-15",
+      "month": "2025-03",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-16",
+      "month": "2025-04",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-17",
+      "month": "2025-05",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-18",
+      "month": "2025-06",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-19",
+      "month": "2025-07",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-20",
+      "month": "2025-08",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-21",
+      "month": "2025-09",
       "promotion": 1,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-22",
+      "month": "2025-10",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-23",
+      "month": "2025-11",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-24",
+      "month": "2025-12",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-25",
+      "month": "2026-01",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-26",
+      "month": "2026-02",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-27",
+      "month": "2026-03",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-28",
+      "month": "2026-04",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-29",
+      "month": "2026-05",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     },
     {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-01",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-02",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-03",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-04",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-05",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-06",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-07",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-08",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-09",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-10",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-11",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-12",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-13",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-14",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-15",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-16",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-17",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-18",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-19",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-20",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-21",
-      "promotion": 1,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-22",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-23",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-24",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-25",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-26",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-27",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-28",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-29",
-      "promotion": 0,
-      "received_at": "2026-09-01T00:00:00Z"
-    },
-    {
-      "month": "2024-30",
+      "month": "2026-06",
       "promotion": 0,
       "received_at": "2026-09-01T00:00:00Z"
     }
@@ -3206,7 +2164,7 @@
     {
       "region_code": "r0",
       "month": "2024-02",
-      "status": "observed"
+      "status": "closed"
     },
     {
       "region_code": "r0",
@@ -3260,92 +2218,92 @@
     },
     {
       "region_code": "r0",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r0",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -3410,92 +2368,92 @@
     },
     {
       "region_code": "r1",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r1",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -3560,92 +2518,92 @@
     },
     {
       "region_code": "r2",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r2",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -3710,92 +2668,92 @@
     },
     {
       "region_code": "r3",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r3",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -3860,92 +2818,92 @@
     },
     {
       "region_code": "r4",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r4",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -4010,92 +2968,92 @@
     },
     {
       "region_code": "r5",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r5",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -4160,92 +3118,92 @@
     },
     {
       "region_code": "r6",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-19",
+      "month": "2025-07",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-20",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-21",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-22",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-23",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-24",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-25",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-26",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-27",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-28",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-29",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r6",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     },
     {
@@ -4310,92 +3268,92 @@
     },
     {
       "region_code": "r7",
-      "month": "2024-13",
+      "month": "2025-01",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-14",
+      "month": "2025-02",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-15",
+      "month": "2025-03",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-16",
+      "month": "2025-04",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-17",
+      "month": "2025-05",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-18",
+      "month": "2025-06",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-19",
+      "month": "2025-07",
+      "status": "boundary_change"
+    },
+    {
+      "region_code": "r7",
+      "month": "2025-08",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-20",
+      "month": "2025-09",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-21",
+      "month": "2025-10",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-22",
+      "month": "2025-11",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-23",
+      "month": "2025-12",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-24",
+      "month": "2026-01",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-25",
+      "month": "2026-02",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-26",
+      "month": "2026-03",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-27",
+      "month": "2026-04",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-28",
+      "month": "2026-05",
       "status": "observed"
     },
     {
       "region_code": "r7",
-      "month": "2024-29",
-      "status": "observed"
-    },
-    {
-      "region_code": "r7",
-      "month": "2024-30",
+      "month": "2026-06",
       "status": "observed"
     }
   ]
