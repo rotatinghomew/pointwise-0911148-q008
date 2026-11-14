@@ -1,0 +1,4402 @@
+{
+  "activity": [
+    {
+      "region_code": "r0",
+      "month": "2024-01",
+      "value": null,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-02",
+      "value": 906.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-03",
+      "value": 912.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-04",
+      "value": 918.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-05",
+      "value": 924.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-06",
+      "value": 1010.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-07",
+      "value": 1016.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-08",
+      "value": 1022.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-09",
+      "value": 948.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-10",
+      "value": 954.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-11",
+      "value": 960.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-12",
+      "value": 966.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-13",
+      "value": 972.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-14",
+      "value": 978.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-15",
+      "value": 984.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-16",
+      "value": 990.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-17",
+      "value": 996.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-18",
+      "value": 1082.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-19",
+      "value": 1108.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-20",
+      "value": 1134.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-21",
+      "value": 1080.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-22",
+      "value": 1106.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-23",
+      "value": 1132.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-24",
+      "value": 1158.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-25",
+      "value": 1184.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-26",
+      "value": 1210.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-27",
+      "value": 1236.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-28",
+      "value": 1262.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-29",
+      "value": 1288.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-30",
+      "value": 1394.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-01",
+      "value": 1023.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-02",
+      "value": 1029.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-03",
+      "value": 1036.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-04",
+      "value": 1042.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-05",
+      "value": 1049.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-06",
+      "value": 1144.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-07",
+      "value": 1150.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-08",
+      "value": 1157.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-09",
+      "value": 1075.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-10",
+      "value": 1082.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-11",
+      "value": 1089.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-12",
+      "value": 1095.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-13",
+      "value": 1102.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-14",
+      "value": 1108.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-15",
+      "value": 1115.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-16",
+      "value": 1122.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-17",
+      "value": 1128.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-18",
+      "value": 1223.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-19",
+      "value": 1262.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-20",
+      "value": 1302.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-21",
+      "value": 1254.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-22",
+      "value": 1293.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-23",
+      "value": 1333.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-24",
+      "value": 1372.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-25",
+      "value": 1412.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-26",
+      "value": 1452.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-27",
+      "value": 1491.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-28",
+      "value": 1531.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-29",
+      "value": 1570.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-30",
+      "value": 1698.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-01",
+      "value": 1152.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-02",
+      "value": 1159.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-03",
+      "value": 1166.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-04",
+      "value": 1173.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-05",
+      "value": 1180.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-06",
+      "value": 1284.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-07",
+      "value": 1291.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-08",
+      "value": 1298.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-09",
+      "value": 1209.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-10",
+      "value": 1216.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-11",
+      "value": 1224.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-12",
+      "value": 1231.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-13",
+      "value": 1238.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-14",
+      "value": 1245.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-15",
+      "value": 1252.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-16",
+      "value": 1260.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-17",
+      "value": 1267.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-18",
+      "value": 1370.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-19",
+      "value": 1425.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-20",
+      "value": 1480.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-21",
+      "value": 1440.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-22",
+      "value": 1495.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-23",
+      "value": 1550.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-24",
+      "value": 1605.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-25",
+      "value": 1660.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-26",
+      "value": 1716.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-27",
+      "value": 1771.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-28",
+      "value": 1826.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-29",
+      "value": 1881.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-30",
+      "value": 2032.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-01",
+      "value": 1287.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-02",
+      "value": 1294.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-03",
+      "value": 1302.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-04",
+      "value": 1310.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-05",
+      "value": 1318.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-06",
+      "value": 1430.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-07",
+      "value": 1437.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-08",
+      "value": 1445.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-09",
+      "value": 1349.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-10",
+      "value": 1357.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-11",
+      "value": 1365.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-12",
+      "value": 1372.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-13",
+      "value": 1380.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-14",
+      "value": 1388.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-15",
+      "value": 1396.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-16",
+      "value": 1404.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-17",
+      "value": 1411.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-18",
+      "value": 1523.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-19",
+      "value": 1531.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-20",
+      "value": 1539.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-21",
+      "value": 1443.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-22",
+      "value": 1450.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-23",
+      "value": 1458.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-24",
+      "value": 1466.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-25",
+      "value": 1474.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-26",
+      "value": 1482.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-27",
+      "value": 1489.8,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-28",
+      "value": 1497.6,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-29",
+      "value": 1505.4,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-30",
+      "value": 1617.2,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-01",
+      "value": 1428.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-02",
+      "value": 1436.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-03",
+      "value": 1444.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-04",
+      "value": 1453.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-05",
+      "value": 1461.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-06",
+      "value": 1582.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-07",
+      "value": 1590.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-08",
+      "value": 1598.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-09",
+      "value": 1495.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-10",
+      "value": 1503.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-11",
+      "value": 1512.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-12",
+      "value": 1520.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-13",
+      "value": 1528.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-14",
+      "value": 1537.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-15",
+      "value": 1545.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-16",
+      "value": 1554.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-17",
+      "value": 1562.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-18",
+      "value": 1682.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-19",
+      "value": 1691.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-20",
+      "value": 1699.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-21",
+      "value": 1596.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-22",
+      "value": 1604.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-23",
+      "value": 1612.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-24",
+      "value": 1621.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-25",
+      "value": 1629.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-26",
+      "value": 1638.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-27",
+      "value": 1646.4,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-28",
+      "value": 1654.8,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-29",
+      "value": 1663.2,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-30",
+      "value": 1783.6,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-01",
+      "value": 1575.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-02",
+      "value": 1584.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-03",
+      "value": 1593.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-04",
+      "value": 1602.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-05",
+      "value": 1611.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-06",
+      "value": 1740.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-07",
+      "value": 1749.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-08",
+      "value": 1758.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-09",
+      "value": 1647.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-10",
+      "value": 1656.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-11",
+      "value": 1665.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-12",
+      "value": 1674.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-13",
+      "value": 1683.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-14",
+      "value": 1692.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-15",
+      "value": 1701.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-16",
+      "value": 1710.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-17",
+      "value": 1719.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-18",
+      "value": 1848.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-19",
+      "value": 1857.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-20",
+      "value": 1866.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-21",
+      "value": 1755.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-22",
+      "value": 1764.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-23",
+      "value": 1743.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-24",
+      "value": 1722.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-25",
+      "value": 1701.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-26",
+      "value": 1680.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-27",
+      "value": 1659.0,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-28",
+      "value": 1638.0,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-29",
+      "value": 1617.0,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-30",
+      "value": 1716.0,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-01",
+      "value": 1728.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-02",
+      "value": 1737.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-03",
+      "value": 1747.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-04",
+      "value": 1756.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-05",
+      "value": 1766.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-06",
+      "value": 1904.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-07",
+      "value": 1913.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-08",
+      "value": 1923.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-09",
+      "value": 1804.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-10",
+      "value": 1814.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-11",
+      "value": 1824.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-12",
+      "value": 1833.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-13",
+      "value": 1843.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-14",
+      "value": 1852.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-15",
+      "value": 1862.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-16",
+      "value": 1872.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-17",
+      "value": 1881.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-18",
+      "value": 2019.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-19",
+      "value": 2028.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-20",
+      "value": 2038.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-21",
+      "value": 1920.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-22",
+      "value": 1929.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-23",
+      "value": 1907.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-24",
+      "value": 1884.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-25",
+      "value": 1862.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-26",
+      "value": 1840.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-27",
+      "value": 1817.6,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-28",
+      "value": 1795.2,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-29",
+      "value": 1772.8,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-30",
+      "value": 1878.4,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-01",
+      "value": 1887.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-02",
+      "value": 1897.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-03",
+      "value": 1907.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-04",
+      "value": 1917.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-05",
+      "value": 1927.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-06",
+      "value": 2074.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-07",
+      "value": 2084.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-08",
+      "value": 2094.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-09",
+      "value": 1968.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-10",
+      "value": 1978.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-11",
+      "value": 1989.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-12",
+      "value": 1999.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-13",
+      "value": 2009.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-14",
+      "value": 2019.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-15",
+      "value": 2029.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-16",
+      "value": 2040.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-17",
+      "value": 2050.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-18",
+      "value": 2196.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-19",
+      "value": 2206.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-20",
+      "value": 2216.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-21",
+      "value": 2091.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-22",
+      "value": 2101.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-23",
+      "value": 2111.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-24",
+      "value": 2121.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-25",
+      "value": 2131.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-26",
+      "value": 2142.0,
+      "open_hours": 100,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-27",
+      "value": 2152.2,
+      "open_hours": 101,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-28",
+      "value": 2162.4,
+      "open_hours": 102,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-29",
+      "value": 2172.6,
+      "open_hours": 103,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-30",
+      "value": 2318.8,
+      "open_hours": 104,
+      "revision": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "region_versions": [
+    {
+      "region_code": "r0",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r0"
+    },
+    {
+      "region_code": "r1",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r1"
+    },
+    {
+      "region_code": "r2",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r2"
+    },
+    {
+      "region_code": "r3",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r3"
+    },
+    {
+      "region_code": "r4",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r4"
+    },
+    {
+      "region_code": "r5",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r5"
+    },
+    {
+      "region_code": "r6",
+      "valid_from": "2024-01",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r6"
+    },
+    {
+      "region_code": "r7",
+      "valid_from": "2024-01",
+      "valid_to": "2025-07",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z",
+      "area_id": "r7"
+    },
+    {
+      "region_code": "r7",
+      "area_id": "r7-realigned",
+      "valid_from": "2025-07",
+      "valid_to": "2027-01",
+      "scale": 1.0,
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "calendar": [
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-01",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-02",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-03",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-04",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-05",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-06",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-07",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-08",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-09",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-10",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-11",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-12",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-13",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-14",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-15",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-16",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-17",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-18",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-19",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-20",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-21",
+      "promotion": 1,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-22",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-23",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-24",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-25",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-26",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-27",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-28",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-29",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "month": "2024-30",
+      "promotion": 0,
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "coverage": [
+    {
+      "region_code": "r0",
+      "month": "2024-01",
+      "status": "missing"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r0",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r1",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r2",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r3",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r4",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r5",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r6",
+      "month": "2024-30",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-01",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-02",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-03",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-04",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-05",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-06",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-07",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-08",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-09",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-10",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-11",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-12",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-13",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-14",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-15",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-16",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-17",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-18",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-19",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-20",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-21",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-22",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-23",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-24",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-25",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-26",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-27",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-28",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-29",
+      "status": "observed"
+    },
+    {
+      "region_code": "r7",
+      "month": "2024-30",
+      "status": "observed"
+    }
+  ]
+}
