@@ -1,6 +1,6 @@
 # 区域经营拐点复核台
 
-本项目用于区域经营拐点复核台的业务资料核对与分析留存。目前提供 `regional_series` 覆盖核对，业务定义见 `docs/data-contract.md`。示例数据在本地生成，分析不访问远程业务系统。
+本项目用于区域经营拐点复核台的业务资料核对与分析留存。目前提供 `regional_series` 覆盖核对与 `common_break_scan` 共同转折复核，业务定义见 `docs/data-contract.md`。示例数据在本地生成，分析不访问远程业务系统。
 
 ## 运行环境
 Python 3.11；数值库固定在 `requirements.txt`。Dockerfile 通过不可变镜像摘要锁定已验证的 Python 3.11.14，代码兼容控制台 Python 3.11.2。依赖安装属于环境准备，不属于服务启动；已经准备过的环境不再联网下载。
@@ -9,16 +9,17 @@ Python 3.11；数值库固定在 `requirements.txt`。Dockerfile 通过不可变
 python3 -m pip install -r requirements.txt
 python3 -m unittest discover -s tests -v
 python3 -m app demo
+python3 -m app breaks
 python3 -m app serve
 ```
 
 服务默认监听本机 8080，`GET /health` 检查存活，`GET /v1/catalog` 查看当前分析类型。`POST /v1/analyses` 接收 `request_id`、`operation`、`as_of` 和可选 `options` 对象，返回保存后的分析；`GET /v1/analyses/{request_id}` 打开历史记录。数据文件由 `--source` 指定，SQLite 由 `--database` 指定，参数放在子命令前。`POST /v1/actions` 调用领域操作，已支持的动作见领域模块；没有配置动作的项目会明确拒绝。
 
 ## 目录职责
-`app/domain.py` 保存当前业务核对与动作，`app/contracts.py` 处理可见版本，`app/repository.py` 维护输入与分析记录，`app/service.py` 协调操作和留存，`app/httpd.py` 提供本地接口。`tests` 覆盖业务口径、重复请求、并发回放及真实 HTTP 往返。
+`app/domain.py` 保存当前业务核对与动作，`app/breaks.py` 实现共同转折与地区独有转折复核，`app/contracts.py` 处理可见版本，`app/repository.py` 维护输入与分析记录，`app/service.py` 协调操作和留存，`app/httpd.py` 提供本地接口。`tests` 覆盖业务口径、重复请求、并发回放、真实 HTTP 往返及转折复核判定。
 
 ## 快速查看
-`python3 -m app demo` 从本地数据执行当前覆盖核对并完整打印结果，一般数秒内完成。清理 `var` 可从干净状态重新运行，历史正式记录应另外留存。该命令展示的是当前已具备的核对能力，不代表已完成其他分析。
+`python3 -m app demo` 从本地数据执行当前覆盖核对并完整打印结果，一般数秒内完成。`python3 -m app breaks` 执行共同转折复核并完整打印结果（含共同日期范围、分区证据、异质性与窗口稳健性），默认 199 次自助法重抽样，本地数秒内完成；`--hypothesized-month YYYY-MM` 可按事先假定的月份复核，`--resamples` 调整重抽样次数。清理 `var` 可从干净状态重新运行，历史正式记录应另外留存。
 
 ## 容器与离线复现
 首次在运行前执行 `docker build -t local-analysis .` 准备锁定依赖。

@@ -1,6 +1,7 @@
 from collections import Counter
 from pathlib import Path
 
+from app.breaks import common_break_scan
 from app.contracts import latest, load
 from app.repository import digest
 
@@ -25,7 +26,7 @@ def regional_series(snapshot, options):
 def action(repository, request):
     raise ValueError('尚未登记该业务的可写操作')
 
-OPERATIONS = {'regional_series': regional_series}
+OPERATIONS = {'regional_series': regional_series, 'common_break_scan': common_break_scan}
 
 
 def seed_dataset():
